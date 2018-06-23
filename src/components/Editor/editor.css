@@ -1,0 +1,14 @@
+
+.editor{
+    margin-right:-7px;
+    margin-left:-5px;
+}
+
+.editor .card-body{
+    padding: 0;
+    
+}
+#editor{
+    min-height:460px ;
+    width: 100%;
+}
